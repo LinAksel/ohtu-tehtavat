@@ -4,7 +4,7 @@
 
 * [ohtu-2020-viikko1](https://github.com/LinAksel/ohtu-2020-viikko1)
 
-*[Tehtävät 14-16](/viikko1/tehtavat14-16)
+* [Tehtävät 14-16](/viikko1/tehtavat14-16)
 
 ## Viikko 2
 
