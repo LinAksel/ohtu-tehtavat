@@ -39,7 +39,3 @@
 * [Tehtävät 4-5](/viikko5/LaskinFX11/src/main/java/laskin)
 
 * [Tehtävä 6](retro.md)
-
-## Viikko 7
-
-* [Tehtävä 3](/viikko7/KiviPaperiSakset/src/main/java/ohtu/kivipaperisakset)
