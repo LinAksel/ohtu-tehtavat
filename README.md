@@ -33,3 +33,9 @@
 * [Tehtävä 5](/viikko4/IntJoukkoSovellus/src/main/java/ohtu/intjoukkosovellus)
 
 * [Tehtävä 6](/viikko4/Tennis/src/main/java/ohtu/TennisGame.java)
+
+## Viikko 5
+
+* [Tehtävät 4-5](/viikko5/LaskinFX11/src/main/java/laskin)
+
+* [Tehtävä 6](retro.md)
